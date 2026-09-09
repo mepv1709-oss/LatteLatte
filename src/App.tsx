@@ -35,7 +35,7 @@ const menu = [
 
 const favorites = [
   { name: "Latte", price: "C$ 95", tag: "Favorito", image: "https://images.unsplash.com/photo-1541167760496-1628856ab772?auto=format&fit=crop&w=900&q=85" },
-  { name: "Tres Leches", price: "C$ 220", tag: "Dulce", image: "https://images.unsplash.com/photo-1551024506-0bccd828d307?auto=format&fit=crop&w=900&q=85" },
+  { name: "Tres Leches", price: "C$ 220", tag: "Dulce", image: "https://imgur.com/a/D3cOBpV" },
   { name: "Cappuccino", price: "C$ 95", tag: "Clásico", image: "https://images.unsplash.com/photo-1534778101976-62847782c213?auto=format&fit=crop&w=900&q=85" },
 ];
 
